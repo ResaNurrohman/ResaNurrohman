@@ -626,6 +626,9 @@ span {
   }
 }
 @media (max-width: 895px) {
+  html {
+    font-size: 30%;
+  }
   #menu-icon {
     display: block;
   }
